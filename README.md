@@ -1,2 +1,2 @@
 # Demos
-dumpsys gfxinfo
+adb shell dumpsys gfxinfo [Package Name] 
